@@ -31,6 +31,11 @@
 
 -> Confidential
 
+    symmetric key(secret key)
+
+    How to generate symmetric key
+   ```openssl rand -hex 10```
+
 -> Authentication 
 
 -> Authorization 
